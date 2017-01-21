@@ -1,0 +1,59 @@
+.logo h1 {
+  font-family: Berkshire Swash;
+  font-size: 30px;
+  letter-spacing: 1rem;
+  text-shadow: 10px 10px 5px rgba(142, 145, 142, 0.47); }
+
+.header {
+  display: flex;
+  align-items: center; }
+
+.headline h2 {
+  font-family: Montserrat;
+  color: #011627;
+  margin: 0px; }
+
+.navbar-list {
+  list-style: none;
+  float: right; }
+  .navbar-list .navbar-item {
+    position: relative;
+    float: right; }
+    .navbar-list .navbar-item .navbar-link {
+      font-size: 12px;
+      font-weight: 600;
+      letter-spacing: 0.2rem;
+      margin-right: 35px;
+      text-decoration: none;
+      line-height: 6.5rem;
+      color: #fff; }
+
+.main-section {
+  text-align: center;
+  margin-bottom: 160px; }
+
+.suscribe-form {
+  margin-bottom: 30px;
+  display: flex;
+  justify-content: center; }
+  .suscribe-form .button {
+    background-color: #e71d36;
+    border: none; }
+
+.post {
+  margin-bottom: 50px; }
+  .post a {
+    color: #ff9f1c;
+    text-decoration: none; }
+
+.pages {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 30px; }
+  .pages .page {
+    background-color: #ccc;
+    padding: 2px 12px; }
+  .pages .page1 {
+    background-color: #aaa; }
+
+/*# sourceMappingURL=style.css.map */
